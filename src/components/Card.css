@@ -37,10 +37,10 @@
 
 .Card.Blue .Header {
     color: #fff;
-    background-color:darkblue;
+    background-color:rgb(0, 72, 139);
 }
 .Card.Blue .Content {
-    background-color: #3649f4;
+    background-color: #368ff4;
 }
 
 .Card.Purple .Header {
